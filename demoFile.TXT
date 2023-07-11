@@ -20,3 +20,5 @@ new info for the branch "feature"2
 
 + new content2
 + new change for feature branch2
+
+for tag only
