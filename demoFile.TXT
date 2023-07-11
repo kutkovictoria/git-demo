@@ -7,3 +7,5 @@ The third row from Git Bush to check from Git Gui.
 
 ------------------
 new info for the branch "feature"
+
++ new content
