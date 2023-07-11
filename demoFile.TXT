@@ -6,4 +6,4 @@ The third row from Git Bush to check from Git Gui.
 
 
 ------------------
-to be revert from git repo
+new info for the branch "feature"
