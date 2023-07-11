@@ -10,3 +10,7 @@ new info for the branch "feature"
 
 + new content
 + new change for feature branch
+
+-------------------------------
++ new content2
++ new change for feature branch2
